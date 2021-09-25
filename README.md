@@ -1,2 +1,2 @@
-# C_11_Student-Activity-2_Solution
-solution for student activity
+# C11-Actividad-del-Alumno-2-solucion
+solución de la actividad del alumno
